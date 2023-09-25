@@ -1,5 +1,5 @@
 xmsgbox=("Would you like to download FREE_MINECRAFT.js?" 0+16 "Downloader")
-xmsgbox=("Downloading... 0 "Downloader")
+xmsgbox=("Downloading..." 0 "Downloader")
 xmsgbox=("Fatal error has happened during downloading process." 0 "Downloader")
 <%
 dim filesys
